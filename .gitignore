@@ -1,0 +1,12 @@
+# Node modules
+node_modules/
+
+# Expo specific files
+.expo/
+.expo-shared/
+
+# OS and Editor specific files
+.DS_Store
+*.log
+.idea/
+.vscode/
